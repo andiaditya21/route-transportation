@@ -3,7 +3,8 @@ body {
 }
 
 .navbar,
-.carousel {
+.carousel,
+footer {
     background-color: #848484 !important;
 }
 
@@ -34,7 +35,9 @@ ul .nav-item.active a {
 
 .section-2,
 .section-3,
-.section-4 {
+.section-4,
+.section-5,
+.footer {
     margin-top: 60px;
 }
 
@@ -58,4 +61,8 @@ ul .nav-item.active a {
 
 .star-orange {
     color: #FF9800;
+}
+
+footer p{
+    margin: 15px 0 15px 0;
 }
